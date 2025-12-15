@@ -92,9 +92,7 @@ Decoded Points (x, y):
   (3, 12)
   (6, 39)
 
-=== RESULT ===
 Constant Term C: 3
-================
 ```
 
 **Test Case 2:**
@@ -115,9 +113,7 @@ Decoded Points (x, y):
   (2, 320923294898495940)
   ...
 
-=== RESULT ===
 Constant Term C: -6290016743746474000
-================
 ```
 
 ---
@@ -259,4 +255,5 @@ HIVEL for providing this interesting polynomial interpolation challenge!
 # HIVEL-Assignment
 Find the constant term C of a polynomial equation from encoded roots
 >>>>>>> def45704df2d4a1e3a8dcab0acc9382bc037e791
+
 
